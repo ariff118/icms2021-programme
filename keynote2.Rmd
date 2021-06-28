@@ -1,0 +1,36 @@
+---
+title: "About the presenter"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br></br>
+<br></br>  
+
+:::: {style="display: flex;"}
+
+::: {.column width="35%"}
+
+<center>![](images/matthias2.jpg)</center>
+:::
+
+::: {.column width="10%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="55%"}
+### **Dr. Matthias Templ**  
+*Institute of Data Analysis and Process Design  
+Zurich University of Applied Sciences, Switzerland*  
+
+Dr Matthias Templ works at the Zurich University of Applied Sciences, is the owner of the company data-analysis OG and he is additionally assigned to the Vienna University of Technology. He obtained his PhD and habilitation at  Technical Mathematics and Statistics from the Vienna University of Technology. His main research interest is in the area of imputation, statistical disclosure control, visualization, compositional data analysis, and computational statistics. Templ has more than 420 scientific contributions in books, scientific journals and conferences as well as more than 60 papers in well-known indexed scientific journals. He is the author and maintainer of several R packages, such as the VIM package for visualization and imputation of missing values. In addition, Dr. Matthias Templ is the editor-in-chief of the Austrian Journal of Statistics. Currently, he also granted a fellowship of the Canton of Zurich for data anonymization.  
+:::
+
+::::
+
+> Plenary  
+> Dr. Matthias Templ will be presenting on 'Analysis and Imputation of Missing Values' on 5th August 2021 at 14:30 (MALAYSIA time) during the 5th International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021).  
+>  
+> [[Find out more]](plenaries.html)

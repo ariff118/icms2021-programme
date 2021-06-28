@@ -1,0 +1,41 @@
+---
+title: "About the presenter"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br></br>
+<br></br>  
+
+:::: {style="display: flex;"}
+
+::: {.column width="35%"}
+
+<center>![](images/yap2.jpg)</center>
+:::
+
+::: {.column width="10%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="55%"}
+### **Prof. Dr. Yap Bee Wah**  
+*Institute for Big Data Analytics and Artificial Intelligence  
+Universiti Teknologi MARA*  
+
+Professor Dr. Yap Bee Wah is a faculty member of the Center of Statistical and Decision Science Studies in Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA. She received the Bachelor of Science (Education)(Hons) degree, majoring in Mathematics from University of Science Malaysia, Master of Statistics from University of California Riverside and PhD (Statistics) from University of Malaya. Her research interests are in Big Data Analytics, Computational Statistics and Multivariate Data Analysis. She was the Head of Advanced Analytics Engineering Centre (AAEC), a Centre of Excellence in Faculty of Computer and Mathematical Sciences from May 2014 - May 2020. She is the conference chair for Soft Computing in Data Science (2015-2019) and is currently a Principal Fellow of Institute for Big Data Analytics and Artificial Intelligence (formerly known as Advanced Analytics Engineering Centre).  
+
+She is the main and co-supervisor for 17 PhD students and also supervises many Master by coursework student  in their final dissertations. She has published numerous articles in Scopus/ISI indexed journals and proceedings. She is also one of the Editors for Soft Computing in Data Science, published by Springer and Indonesian Journal of Computing
+and Cybernetics Systems, She is also the Guest Editor for Applied Soft Computing (Q1).  
+
+She participates actively in both local and international conferences and also actively conduct statistical workshops (IBM SPSS STATISTICS, IBM SPSS AMOS, PLS-SEM, SAS EMINER and IBM SPSS MODELER).
+:::
+
+::::
+
+> Plenary  
+> Prof. Dr. Yap Bee Wah will be presenting on 'Research and Innovation: Opportunities and Challenges for Academia' on the 4th August 2021 at 09:20 (MALAYSIA time) during the 5th International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021).  
+>  
+> [[Find out more]](plenaries.html)
