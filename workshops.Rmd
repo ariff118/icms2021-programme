@@ -1,0 +1,71 @@
+---
+title: "Pre-Conference Workshops"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+ 
+
+<br></br>  
+
+### **3th August, 2021**  
+### **08:30 - 16:30 (MY time)**  
+
+Select a worshop session below to reveal more details and to access the button to join.  
+
+***
+
+> #### **R Markdown in Academic Writing**  
+> Presented by: Kamarul Ariffin Mansor  
+> 
+> R Software @ [https://cran.r-project.org/](https://cran.r-project.org/)  
+> R Studio @ [https://www.rstudio.com/](https://www.rstudio.com/)  
+
+<details>
+<summary>Overview & Tentative</summary>  
+<p>
+#### Overview of Workshop
+
+*This workshop is designed for participants with no prior knowledge and experience in R programming language. A basic programming just to get you started will be introduced at the beginning of the session. In general, this workshop will be a hands on session where participants will be guided through a step-by-step process in creating a basic customized academic journal article template and authoring academic book to be published as hardcopy, ebook or online. An important note to the participants, since this is a virtual session, individual troubleshooting in the use of the software might not be able to be performed effectively during the ongoing session and can only be assisted offline after the session.*
+
+#### Tentative Program
+
++---------------+----------------------------------------------------+
+| Time          | Content                                            |
++===============+====================================================+
+| 8:30 - 9:00   | Registration                                       |
++---------------+----------------------------------------------------+
+| 9:00 - 11:00  | Overview of R, R Studio & R Markdown               |
+|               |                                                    |
+|               | -   Installation of software and required packages |
+|               |                                                    |
+|               | -   Basic R Markdown functions and features        |
++---------------+----------------------------------------------------+
+| 11:00 - 11:15 | Break                                              |
++---------------+----------------------------------------------------+
+| 11:15 - 1:15  | Creating journal article with R Markdown           |
+|               |                                                    |
+|               | -   Update YAML                                    |
+|               |                                                    |
+|               | -   Add text                                       |
+|               |                                                    |
+|               | -   Add code                                       |
+|               |                                                    |
+|               | -   Render final document to pdf                   |
+|               |                                                    |
+|               | -   Add paper dependencies                         |
++---------------+----------------------------------------------------+
+| 1:15 - 2:15   | Break                                              |
++---------------+----------------------------------------------------+
+| 2:15 - 4:15   | Authoring Book with R Markdown                     |
++---------------+----------------------------------------------------+
+| 4:15 - 4:30   | Q&A and Certification                              |
++---------------+----------------------------------------------------+
+| 4:30          | End Session                                        |
++---------------+----------------------------------------------------+
+  
+
+[**Kamarul Ariffin Mansor, Malaysia**](workshops1.html)  
+
+[[Join]]()  
+</p>
+</details>

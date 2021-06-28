@@ -9,8 +9,8 @@ navbar:
       href: plenaries.html
     - text: "BREAKOUT SESSIONS"
       href: breakout.html
-    - text: "POP-UP"
-      href: popup.html
+    - text: "WORKSHOPS"
+      href: workshops.html
     - text: "PRESENTERS"
       href: presenters.html
     - text: "HELP"

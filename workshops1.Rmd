@@ -1,0 +1,36 @@
+---
+title: "About the presenter"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br></br>
+<br></br>  
+
+:::: {style="display: flex;"}
+
+::: {.column width="35%"}
+
+<center>![](images/profile1.jpeg)</center>
+:::
+
+::: {.column width="10%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="55%"}
+### **Kamarul Ariffin Mansor**  
+*Universiti Teknologi MARA  
+Kedah Branch Campus*  
+
+Kamarul Ariffin Mansor, is a senior lecturer at the Faculty of Computer Science and Mathematics, Universiti Teknologi MARA (UiTM), Kedah Branch Campus, Malaysia. His research interest includes the application of structural equation modeling and statistical applications in other fields of studies, data analytics and visualization using Excel, R, Tableau, etc.
+:::
+
+::::
+
+> Workshops  
+> Kamarul Ariffin Mansor will be conducting a workshop on 'R Markdown in Academic Writing' on the 3th August 2021 at 08:30 - 16:30 (MALAYSIA time) during the 5th International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021).  
+>  
+> [[Find out more]](workshops.html)

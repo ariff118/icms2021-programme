@@ -123,3 +123,53 @@ a column separator -->
 :::
 
 ::::
+
+---  
+
+### **Workshops Speakers**  
+
+:::: {style="display: flex;"}
+
+::: {.column width="22%"}
+
+<center>
+![](images/profile1.jpeg)
+**Kamarul Ariffin Mansor**  
+Universiti Teknologi MARA, Malaysia  
+  
+[[VIEW BIO]]()
+</center>
+:::
+
+::: {.column width="4%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="22%"}
+
+
+:::
+
+::: {.column width="4%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="22%"}
+
+:::
+
+::: {.column width="4%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="22%"}
+
+:::
+
+::::
