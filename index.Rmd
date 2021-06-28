@@ -1,0 +1,47 @@
+---
+title: "Conference programme"
+output:
+  html_document: 
+    includes:
+        in_header: assets/header.html
+        after_body: footer.html
+    #toc: false
+    #toc_float: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+  
+
+Use the buttons below to access a talk at the designated time. Where more than one session is available, click 'see options' to view your choices. For further help and guidance please see the [help section](help.html).  
+
+
+> 08:00 - 08:40 (MALAYSIA time)  
+>  
+> ### Registration  
+> Familiarise yourself with the conference platform and check that your equipment is working by accessing the 'registration' session.  
+>  
+> [[JOIN]]()  
+
+---  
+
+> 08:40 - 08:45 (MY time)  
+>  
+> ### Doa Recitation and National Anthem  
+>  
+> [[JOIN]]()  
+
+---
+
+> 08:45 - 09:00 (MY time)  
+>  
+> ### Welcoming Speech by:  
+>  
+> **PROF. DR. MOHAMAD ABDULLAH HEMDI**  
+> Rector, Universiti Teknologi Mara (UiTM) Kedah  
+>  
+> [[JOIN]]()  
+
+

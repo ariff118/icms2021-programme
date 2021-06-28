@@ -1,0 +1,24 @@
+name: "Virtual iCMS 2021"
+output_dir: "docs"
+navbar:
+  title: "Virtual iCMS 2021"
+  left:
+    - text: "PROGRAMME"
+      href: index.html
+    - text: "PLENARIES"
+      href: plenaries.html
+    - text: "BREAKOUT SESSIONS"
+      href: breakout.html
+    - text: "POP-UP"
+      href: popup.html
+    - text: "PRESENTERS"
+      href: presenters.html
+    - text: "HELP"
+      href: help.html
+output:
+  html_document:
+    include:
+      in_header: assets/header.html
+      after_body: footer.html
+    theme: yeti
+    css: 'styles.css'
