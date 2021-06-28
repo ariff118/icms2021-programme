@@ -1,0 +1,28 @@
+---
+title: "Breakout Sessions 1"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br></br>  
+
+### **4th August, 2021**  
+### **11:00 - 12:40 (MY time)**  
+
+Select a breakout session below to reveal more details and to access the button to join.  
+
+> #### **Translation and the ESP classroom**  
+> Presented by: Speaker Name  
+> 
+> Track - English for specific purposes (ESP)  
+
+<details>
+<summary>abstract</summary>  
+<p>
+*For years, translation in the language classroom has been frowned upon as counterproductive. However, views have started to shift recently, seeing some merit in using translation activities in language teaching, and particularly when involved with ESP. The main argument in favour of translation in this context is its communicative nature which may, under certain conditions, foster the aims and objectives of language teaching. This is especially true for the ESP classroom, given the fact that certain real-life tasks would require the participants to engage in an interlingual, and even intercultural, exchange. Within this framework, this presentation aims at supporting the view that translation can be part of the ESP classroom if certain conditions are taken into consideration, in order to take full advantage of its communicative nature so needed in real-life tasks that our students may be faced with. Therefore, this presentation will initially examine the similarities and differences between the profession of a translator and that of a language teacher, a brief overview which will contribute to the main purpose of this presentation, which is to show how translation can be used in the language classroom if certain conditions are kept in mind. At the same time, it will show how translation is to be used in the classroom with the aim of making the most of students’ prior knowledge of the L1 but also increasingly expose them to the L2 in a more effective way.*  
+
+[**Speaker Name, Country**]()  
+
+[[Join]]()  
+</p>
+</details>
