@@ -1,13 +1,13 @@
 ---
-title: "Parallel Sessions 1"
+title: "Parallel Sessions 3"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <br></br>  
 
-### **4th August, 2021**  
-### **11:00 - 12:40 (MY time)**  
+### **5th August, 2021**  
+### **08:40 - 10:15 (MY time)**  
 
 Select a room and session below to reveal more details and to access the button to join.  
 
@@ -19,7 +19,7 @@ Select a room and session below to reveal more details and to access the button 
 
 > #### **Paper ID - Title**  
 > Presented by: **_Speaker Name_**  
-> Start Time: **_11:00 (MY time)_**  
+> Start Time: **_08:40 (MY time)_**  
 > 
 > Track   
 

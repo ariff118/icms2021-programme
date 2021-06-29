@@ -1,16 +1,20 @@
 ---
-title: "Breakout Sessions"
+title: "Parallel Sessions"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-Choose a breakout session below to see the available presentations.  
+Choose a parallel session below to see the available presentations.  
 
 ***  
-### **DAY 1 - 4th August, 2021**  
 
-> Breakout Sessions 1  
+## {.tabset}  
+
+***  
+### **DAY 1 - 4$^{th}$ August, 2021**  
+
+> Parallel Sessions 1  
 >  
 > 11:00 - 12:40 (MY time)  
 >  
@@ -19,29 +23,41 @@ Choose a breakout session below to see the available presentations.
 
 ***  
 
-> Breakout Sessions 2  
+> Parallel Sessions 2  
 >  
 > 11:00 - 12:40 (MY time)  
 >  
 >  
-> [[See Options]](break1.html)  
+> [[See Options]](break2.html)  
 
 ***  
 
-> Breakout Sessions 3  
+### **DAY 2 - 5$^{th}$ August, 2021**  
+
+> Parallel Sessions 3  
+>  
+> 08:40 - 10:15 (MY time)  
+>  
+>  
+> [[See Options]](break3.html)  
+
+***  
+
+> Parallel Sessions 4  
 >  
 > 11:00 - 12:40 (MY time)  
 >  
 >  
-> [[See Options]](break1.html)  
+> [[See Options]](break4.html)  
 
 ***  
 
-> Breakout Sessions 4  
+> Parallel Sessions 5  
 >  
-> 11:00 - 12:40 (MY time)  
+> 14:30 - 15:10 (MY time)  
 >  
 >  
-> [[See Options]](break1.html)  
+> [[See Options]](break5.html)  
 
 ***  
+

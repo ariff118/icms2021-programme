@@ -1,0 +1,47 @@
+---
+title: "About the presenter"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<br></br>
+<br></br>  
+
+:::: {style="display: flex;"}
+
+::: {.column width="35%"}
+
+<center>![](images/lan2.jpg)</center>
+:::
+
+::: {.column width="10%"}
+\ 
+<!-- an empty Div (with a whitespace), serving as
+a column separator -->
+:::
+
+::: {.column width="55%"}
+### **Muhammad Hazlan Hamdan**  
+*Head of Data Analytics, MISC  
+Chief Data Scientist, Asian Data Science  
+Chief Data Scientist, uVerify  
+Data Science Trainer*  
+
+**Education**  
+Bachelor of Science (Honours) Mathematics  
+Diploma in Quantitative Sciences  
+
+**Certification**  
+Data Scientist - The CADS  
+Data Science Specialization  
+Machine Learining  
+EMC Data Science & Big Data Analytics
+
+:::
+
+::::
+
+> Plenary  
+> Mr. Muhammad Hazlan Hamdan will be presenting on 'Hidden Gem in Talent Market Place' on 4th August 2021 at 10:20 (MALAYSIA time) during the 5th International Conference on Computing, Mathematics and Statistics 2021 (iCMS2021).  
+>  
+> [[Find out more]](plenaries.html)

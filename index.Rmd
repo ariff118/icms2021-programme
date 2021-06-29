@@ -47,4 +47,188 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > [[JOIN]]()  
 
+--- 
+
+> 09:00 - 09:15 (MY time)  
+>  
+> ### Officiating Speech by:  
+>  
+> **PROF Ts DR. HARYANI HARON**  
+> Dean, Faculty of Computer & Mathematical Sciences,  
+> Universiti Teknologi MARA (UiTM) Shah Alam  
+>  
+> [[JOIN]]()  
+
+---  
+
+> 09:15 - 09:20 (MY time)  
+>   
+> ### Video Montage  
+>  
+> [[JOIN]]()  
+
+---  
+
+> 09:20 - 10:20 (MY time)  
+>  
+> ### Keynote Speaker 1  
+> 
+> **PROF. DR. YAP BEE WAH**  
+> Universiti Teknologi MARA (UiTM) Shah Alam  
+>  
+> **_RESEARCH AND INNOVATION: OPPORTUNITIES AND CHALLENGES FOR ACADEMIA_**  
+>  
+> [[JOIN]]()  
+
+---  
+
+> 10:20 - 11:00 (MY time)  
+>  
+> ### Invited Speaker 1  
+>  
+> **MR. MUHAMMAD HAZLAN BIN HAMDAN**  
+> Head of Data Analytics, MISC  
+>  
+> **_HIDDEN GEM IN TALENT MARKET PLACE_**  
+>  
+> [[JOIN]]()  
+
+---  
+
+> 11:00 - 12:40 (MY time)  
+>  
+> ### Parallel Session 1  
+> Choose room and sessions to attend.  
+>  
+> [[SEE OPTIONS]](break1.html)  
+  
+---  
+
+> 12:40 - 14:30 (MY time)  
+>  
+> ### Refreshment Break  
+>  
+
+---  
+
+> 14:30 – 15:30 (MY time)  
+>  
+> Keynote Speaker 2  
+>  
+> **DR. MATTHIAS TEMPL**  
+> Institute of Data Analysis and Process Design  
+> Zurich University of Applied Sciences, Switzerland  
+>  
+> **_ANALYSIS AND IMPUTATION OF MISSING VALUES_**  
+> 
+> <h3>
+> <ul class="pager"> <!--this is the style of the button-->
+> <li><a href="keynote2.html">**VIEW SPEAKER BIO**</a></li> <!--This button takes me to the table of contents-->
+> <li><a href="https://meet.google.com/rmi-nqun-bfy">**JOIN**</a></li> <!--This button takes me to the previous page-->
+> </ul>
+> </h3>  
+
+---  
+
+> 15:30 – 16:10 (MY time)  
+>  
+> Invited Speaker II  
+> 
+> **ASSOC. PROF. ANTONIADE-CIPRIAN ALEXANDRU-CARAGEA PhD**  
+> Vice Rector  
+> Scientific Research and International Relations  
+> Ecological University of Bucharest  
+>  
+> **_SMARTCITY DEVELOPMENT AND IMPLEMENTATION IN ROMANIA_**  
+>  
+> [[**JOIN**]]()  
+
+---  
+
+> 16:10 - 16:50 (MY time)  
+>  
+> ### Parallel Session 2  
+> Choose room and sessions to attend.  
+>  
+> [[SEE OPTIONS]](break2.html)  
+
+<a href="#top">Back to top</a>  
+
+***  
+
 ### Day 2 - August 5, 2021  
+
+> 08:40 - 10:15 (MY time)  
+>  
+> ### Parallel Session 3  
+> Choose room and sessions to attend.  
+>  
+> [[SEE OPTIONS]](break3.html)  
+  
+---  
+
+> 10:15 – 111:00 (MY time)  
+>  
+> Invited Speaker III  
+> 
+> **Dr. Gerald Cheang**  
+> Senior Lecturer  
+> UNISA  
+> South Australia  
+>  
+> **_A HISTORY OF EXCHANGE OPTION PRICING MODELS_**  
+>  
+> [[**JOIN**]]()  
+
+---  
+
+> 11:00 - 12:40 (MY time)  
+>  
+> ### Parallel Session 4  
+> Choose room and sessions to attend.  
+>  
+> [[SEE OPTIONS]](break4.html)  
+  
+---  
+
+> 12:40 - 14:30 (MY time)  
+>  
+> ### Refreshment Break  
+>  
+
+---  
+
+> 14:30 - 15:10 (MY time)  
+>  
+> ### Parallel Session 5  
+> Choose room and sessions to attend.  
+>  
+> [[SEE OPTIONS]](break5.html)  
+  
+---  
+
+> 15:10 - 15:25 (MY time)  
+>  
+> ### Refreshment Break  
+>  
+
+---  
+
+> 15:25 - 16:00 (MY time)  
+>  
+> ### Closing Speech by:  
+>  
+> **PROF. DR. MOHAMAD ABDULLAH HEMDI**  
+> Rector, Universiti Teknologi Mara (UiTM) Kedah  
+>  
+> **_Announcement of BEST PAPER AWARD_**  
+>
+> [[JOIN]]()  
+
+---  
+
+> 16:00 (MY time)
+>  
+> Program Ends
+
+

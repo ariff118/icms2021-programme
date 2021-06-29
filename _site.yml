@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "PLENARIES"
       href: plenaries.html
-    - text: "BREAKOUT SESSIONS"
+    - text: "PARALLEL SESSIONS"
       href: breakout.html
     - text: "WORKSHOPS"
       href: workshops.html
@@ -20,5 +20,5 @@ output:
     include:
       in_header: assets/header.html
       after_body: footer.html
-    theme: yeti
+    theme: darkly
     css: 'styles.css'

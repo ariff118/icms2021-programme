@@ -6,7 +6,7 @@ title: "Plenaries"
 
 ---  
 
-> 09:20 - 10:20 (MY time)
+> August 4, 2021 at 09:20 - 10:20 (MY time)
 >  
 > Keynote 1 - Research and Innovation: Opportunities and Challenges for Academia  
 > Presented by: Prof. Dr. Yap Bee Wah  
@@ -18,13 +18,31 @@ Words of wisdoms...
 
 Synopsis ...  
 
-[[VIEW BIO]](keynote1.html) <span style="color: red;">[[JOIN]]()</span>  
+[[VIEW BIO]](keynote1.html) - <span style="color: red;">[[JOIN]]()</span>  
 </p>
 </details>
 
 ***  
 
-> 09:20 - 10:20 (MY time)
+> August 4, 2021 at 10:20 - 11:00 (MY time)
+>  
+> Invited Speaker 1 - Hidden Gem in Talent Market Place  
+> Presented by: Mr. Muhammad Hazlan Hamdan  
+
+<details>
+<summary>read more ...</summary>  
+<p>
+Words of wisdoms...  
+
+Synopsis ...  
+
+[[VIEW BIO]](invited2.html) - <span style="color: red;">[[JOIN]]()</span>  
+</p>
+</details>  
+
+***  
+
+> August 4, 2021 at 14:30 - 15:30 (MY time)
 >  
 > Keynote 2 - Analysis and Imputation of Missing Values  
 > Presented by: Dr. Matthias Templ  
@@ -36,7 +54,43 @@ Words of wisdoms...
 
 Synopsis ...  
 
-[[VIEW BIO]](keynote2.html) <span style="color: red;">[[JOIN]]()</span>  
+[[VIEW BIO]](keynote2.html) - <span style="color: red;">[[JOIN]]()</span>  
 </p>
-</details>
+</details>  
+
+***  
+
+> August 4, 2021 at 15:30 - 16:10 (MY time)
+>  
+> Invited Speaker 2 - Smartcity Development and Implementation in Romania  
+> Presented by: Assoc. Prof. Antoniade-Ciprian ALEXANDRU-CARAGEA PhD  
+
+<details>
+<summary>read more ...</summary>  
+<p>
+Words of wisdoms...  
+
+Synopsis ...  
+
+[[VIEW BIO]](invited1.html) - <span style="color: red;">[[JOIN]]()</span>  
+</p>
+</details>  
+
+***  
+
+> August 5, 2021 at 10:15 - 11:00 (MY time)
+>  
+> Invited Speaker 3 - A History of Exchange Option Pricing Models  
+> Presented by: Dr. Geral Cheang  
+
+<details>
+<summary>read more ...</summary>  
+<p>
+Words of wisdoms...  
+
+Synopsis ...  
+
+[[VIEW BIO]](invited3.html) - <span style="color: red;">[[JOIN]]()</span>  
+</p>
+</details>  
 

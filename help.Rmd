@@ -4,6 +4,10 @@ title: "Help"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+---  
 
-
-More about this website.
+<center>
+More about this conference, visit the official conference website  
+[https://uitmicms.wixsite.com/icms2021](https://uitmicms.wixsite.com/icms2021)  
+![](images/icms-web.png)
+</center>
