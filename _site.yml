@@ -1,6 +1,11 @@
 name: "Virtual iCMS 2021"
+title: "Virtual iCMS 2021"
+description: |
+  Virtual iCMS 2021 Conference Programme Information
 output_dir: "docs"
+favicon: images/logo.png
 navbar:
+  logo: images/logo.png
   title: "Virtual iCMS 2021"
   left:
     - text: "PROGRAMME"
