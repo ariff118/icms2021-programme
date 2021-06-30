@@ -22,3 +22,11 @@ output:
       after_body: footer.html
     theme: darkly
     css: 'styles.css'
+#  rmdformats::downcute:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+    in_header: assets/header.html_document
+    after_body: footer.html
