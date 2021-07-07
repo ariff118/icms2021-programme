@@ -4,6 +4,13 @@ title: "About the presenter"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<!---
+<style>
+    body { background-color: grey; }
+    pre, pre:not([class]) { background-color: red; }
+</style> 
+--->
+
 <br></br>
 <br></br>  
 
