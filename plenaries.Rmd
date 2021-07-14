@@ -50,9 +50,30 @@ Synopsis ...
 <details>
 <summary>read more ...</summary>  
 <p>
-Words of wisdoms...  
+<blockquote style="font-size:larger;">
+  <span style="color:green;">“I did then what I knew how to do. Now that I know better, I do better.”</span><cite> ― Maya Angelou</cite></blockquote>
+\
+<span style="color:red;">**_Synopsis_**</span>\
 
-Synopsis ...  
+Data from almost all sciences may contain missing values, and the reasons for their appearance are manifold. Missing values occur when measurements fail, from non-response in surveys, when analysis results are lost, or when measurements are implausible.\
+\
+Missing values can have a strong influence on resulting figures and analysis which could be biased and their variance may be underestimated if missing values and their structure - best analyzed with appropriate visualization tools - are ignored.\
+\
+Planning to analyze data that include missing values involves answering the following questions:\
+\
+<span style="color:yellow;">
+  - Which kind of missing data are present in the data?  
+  - What mechanism does this missing data follow?  
+  - Which imputation strategy is appropriate for these data?  
+  - What are the consequences of a sensitivity analysis?  
+  - Is the aim to train and use a predictive model with high predictional power?  
+</span>
+\
+Topics like the visualization of missing values and imputed values can answer some of these questions. This allows to observe the data structure and the mechanism of the missing values and gives many insights into the data set.\ 
+\
+In addition, outliers should be considered and robust methods for imputation used that bound the influence of outliers. In addition, we extensively discuss the imputation of data sets with mixed scaled variables. a data set may contain a mix of continuous, semi-continuous, binary, nominal, ordinal, count, or compositional variables.\ 
+\
+This talk gives a broad overview of methods for missing values and imputation of missing values, but also shows some new developments in the mentioned topics.\
 
 [[VIEW BIO]](keynote2.html) - <span style="color: red;">[[JOIN]]()</span>  
 </p>
