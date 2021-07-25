@@ -364,7 +364,7 @@ human resource costs. This study pioneered the technique of learning to make bas
 
 ---  
 
-> #### **iCMS2021: 088-070 - The Approximate Solution for A Triangular Fully Fuzzy Matrix Equation A X B = C **  
+> #### **iCMS2021: 088-070 - The Approximate Solution for A Triangular Fully Fuzzy Matrix Equation $\tilde{A}\ \tilde{X} \tilde{B} = \tilde{C}$**  
 > Presented by: **_Wan Suhana Wan Daud_**  
 > Start Time: **_12:00 (MY time)_**  
 > 
@@ -373,11 +373,11 @@ human resource costs. This study pioneered the technique of learning to make bas
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*A fully fuzzy matrix equation of $\tilda{A} \tilda{B} = \tilda{C}$ \widetilde{A}\widetilde{X}\widetilde{B}=\widetilde{C} has its own important in the application of control system engineering particularly in the situation of uncertainty. In this study, the equation is solved where the triangular fuzzy numbers be the variables of the equation. The algorithm that is used in the solution is consists of the conversion for the fully fuzzy matrix equation to a fully fuzzy linear system by utilizing the Kronecker and Vec-operator. Subsequently, the final solution is obtained by using the pseudoinverse method. A numerical example and the verification of the solution obtained are presented to demonstrate the contribution of this study.*  
+*A fully fuzzy matrix equation of $\tilde{A}\ \tilde{X} \tilde{B} = \tilde{C}$ has its own important in the application of control system engineering particularly in the situation of uncertainty. In this study, the equation is solved where the triangular fuzzy numbers be the variables of the equation. The algorithm that is used in the solution is consists of the conversion for the fully fuzzy matrix equation to a fully fuzzy linear system by utilizing the Kronecker and Vec-operator. Subsequently, the final solution is obtained by using the pseudoinverse method. A numerical example and the verification of the solution obtained are presented to demonstrate the contribution of this study.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 

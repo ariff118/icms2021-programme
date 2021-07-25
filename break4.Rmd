@@ -17,77 +17,77 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 1 - MERBOK ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 017-009 - Mortality Modelling in Malaysia with Copula Approach**  
+> Presented by: **_Siti Rohani Mohd Nor_**  
 > Start Time: **_11:00 (MY time)_**  
 > 
-> Track   
+> Track - Statistics  
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Accurate prediction on the life expectancy is crucial for the government, policy makers and health providers to make early retirement plan for ageing populations. The issue has grown in importance as many developments in stochastic mortality modelling have been introduced since 1992. Such approaches, however, are too complex since it requires two separate steps of estima-tion methods which would cause unreliable forecast on the life expectancy. Thus, this study aims to propose a new mortality model which incorporate the copula modelling into the model-ling design. The copula modelling is used to capture the interdependency between two popula-tions in more simple way and therefore provide greater flexibility to the mortality modelling as compared to the traditional methods. The proposed mortality model is applied to Malaysian mor-tality data for male and female from 1980 to 2020. The results show that the proposed model provides better life expectancy prediction as compared to the other existing mortality models. Therefore, this study can be used as a reference to construct a new mortality table for making policy.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 037-029 - Performance Comparison of Spatial Outlier Detection Algorithms**  
+> Presented by: **_Rossita M.Yunus_**  
 > Start Time: **_11:15 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Several procedures outlined in the literature can only detect outliers in a non-spatial manner. Thus, the results obtained will have no protection against spatial outliers. The objective of this study is to select the best method for detecting spatial outliers.  Among the four methods, two of them use robust measures in the location and scale parameters, while the other two do not. Detection performance was assessed using simulated data as well as the PM10 concentration da-ta. The methods with robust measures have shown comparable results like the other two meth-ods when using the PM10 data and more accurate results in detecting spatial outliers in simulat-ed data.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 049-039 - Gaussian Integer Solutions of the Diophantine Equation $x^{4} + y^{4} = z^{3}$ for $xy$ **  
+> Presented by: **_Shahrina Ismail_**  
 > Start Time: **_11:30 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*This paper is concerned with the existence, types and cardinality of the solutions to the Diophantine equation $x^{4} + y^{4} = z^{3}$ in the Gaussian integers, for $x \ne y$. This paper aims to develop methods to be used in finding all Gaussian integer solutions to this equation. Results of the study show the existence of infinitely many solutions to this type of Diophantine equation in the ring of Gaussian integers for the case $x \ne y$. The main result obtained is a formulation of a generalized method to find all the solutions.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 091-075 - A Comparative Study of Moving Average Methods and ARIMA in Forecasting Gold Price**  
+> Presented by: **_Hang See Pheng_**  
 > Start Time: **_11:45 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The technical analysis is becoming an important reference to the traders in financial markets like stock markets, foreign exchange market, and gold market in recent years. Moving average is one of the most vastly used statistical tools in technical analysis to project and forecast the trend of data in financial markets. This study aims to compare the performance of the moving average methods and ARIMA in the gold market since gold is a precious commodity, globally accepted as a potential currency. In this study, three variations of moving averages including simple moving average (SMA), moving average convergence divergence (MACD), and autoregressive integrated moving average (ARIMA) are being implemented to forecast the daily gold price in the world. The dataset is collected from World Gold Council, which is a well-known website that provides reliable and updated information for gold price. The performance of the three moving average methods is compared by using the dataset from January 2020 until February 2021. The comparison between the moving average methods is done by using two different validation approaches. The SMA and MACD will be compared by considering the accuracy rate while performance of the SMA and ARIMA is validated by the forecasting error measurement – mean absolute percentage error (MAPE) and root mean square error (RMSE). The experimental results obtained indicating MACD perform better than SMA in term of accuracy rate. Further, SMA is found providing more smaller forecasting errors compare to ARIMA in gold price forecasting. The result favors to the SMA as compared to ARIMA due to the dataset obtained in the COVID-19 pandemic phase which observes the instability in the economy.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -171,77 +171,77 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 056-048 - The Future of Malaysia Agriculture Sector by 2030**  
+> Presented by: **_Thanusha Palmira Thangarajah_**  
 > Start Time: **_11:15 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Agriculture is characterized as the art and science of developing the soil, growing crops, and rais-ing livestock. Previously before the independence and until the early ’80s, Malaysia was an agri-cultural country. However, the scenario has changed due to the rapid growth of manufacturing and services sectors which have boosted the economy. Hence, agriculture sector has been shrink-ing and this is very alarming because the impact is very severe on our basic food production such as rice, chicken, fish and etc. Relying too much on importing them would cause shortages in the future if the supplier (i.e. other countries) decided not to sell them or increase the prices. There-fore, the purpose of this study is to forecast the agriculture sector by 2030 as compared to manu-facturing and services sectors. Two forecasting techniques were used which were Holt’s Expo-nential Smoothing and Autoregressive Integrated Moving Average (ARIMA). The performances of the models were evaluated recursively based on RMSE, GRMSE and MAPE. The finding showed that the agriculture sector will decrease from 8.10% in 2021 to 4.96% by 2030. Thus, drastic strategic agricultural policy planning needs to be established by incorporating modern technology in smart farming. The paradigm shift in agriculture sector is very important in self-sustaining the basic food production to ensure our future food security.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 050-040 - Assessing the Relations of Students' Learning Styles and Critical Thinking in Mathematics in a 'Cluster School'**  
+> Presented by: **_Asyura Abd Nassir_**  
 > Start Time: **_11:30 (MY time)_**  
 > 
-> Track   
+> Track - Computer Science   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*All individuals have a different dimension of learning, such as visual learners, auditory learners, and kinesthetic learners. Identifying students' learning styles in class can help teachers plan a strategy for adapting the best teaching method to help them understand. This study aims to identify the potential relationship between the students' preferred learning style and their critical thinking in Mathematics. This study sample involves students at a 'cluster' secondary school in Pahang, Malaysia. A set of questionnaires consists of fourteen questions and critical thinking problems distributed to sixty-two 17-year-old students. The quantitative data collected were ana-lyzed using descriptive statistics, Spearman's Rank Correlation Coefficient, and ANOVA and t-test. The results indicate that the most popular learning style is visual, followed by auditory and kinaesthetic. The most preferred learning style for students in this study is visual, giving 71 per-cent of them are visual learners. For the auditory and kinaesthetic learners, it provides only 22.6 and 6.5 percent, respectively. It also shows that the preferred learning style and critical thinking are not significantly related. This study suggests that teachers should make some efforts to pro-vide various teaching methods consistent with the students' learning style. In contrast, students need to adjust their learning styles to match the teachers' teaching methods. Furthermore, it will help the students to build self-confidence and plan their study strategy.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 065-053 - Modelling Malaysian Gold Prices**  
+> Presented by: **_Isnewati Ab Malek_**  
 > Start Time: **_11:45 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Nowadays, particularly after the unforeseen events of the pandemic triggered by covid-19, most people around the globe are beginning to grow an interest in gold because it offers a sustainable store of value. The Malaysian Kijang Emas is Malaysia’s official gold bullion coin and is minted by Malaysia’s Royal Mint. In comparison, the Kijang Emas has 999.9 millesimal fineness or 24 karats gold purity. The aim of this study is to describe the trend of Kijang Emas and to find the best-fitted model of the ARIMA model in modelling volatile data. The data is estimated using Box-Jenkins Methodology. The general finding of this study is that the Kijang Emas prices indicate the presence of an upward trend, and no seasonality component exists in the data series. In estimating the parameters for the Box-Jenkins ARIMA model, Maximum Likelihood Estima-tion (MLE) is used. The modelling performance of ARIMA is evaluated by using Akaike’s Information Criterion (AIC) and Schwartz Information Criterion (BIC). The results of the study concluded that ARIMA (2,1,1) is the best model by comparing the AIC and BIC value. The process of estimating the ARIMA model is done using Eviews software. In terms of forecasting performance, ARIMA (2,1,1) can be concluded as the best model for Kijang Emas prices data because it has the lowest value of AIC and BIC.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 018-010 - Numerical Solutions of Chaos Convection Model in a Horizontal Layer of Fluid Using Deep Learning Neural Networks (DNN)**  
+> Presented by: **_Ruwaidiah Idris_**  
 > Start Time: **_12:00 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Chaos convection plays an important role in the field of engineering such as designing electrical circuits, lasers and mechanical and magneto-mechanicaldevices, as well as understanding oscillatory chemical reactions and fluiddynamics. Due to high sensitivity to initial conditions, the nonlinear chaoticsystems such as fluid convection and turbulence occur up to tiny levels of external forcing, then the system becomes unstable. An uncontrolled system of convection will route the systems to unstable. When systems are unstable, it will damage the final product produced by industry such as microchips, crystal growth, welding of pipes line etc. In this paper, we developed analytical model for chaos convection in a horizontal layer of fluids derived using Galerkin truncated approximation techniques. The model obtained is then solved numerically using deep learning neural network (DNN). One of the advantages solving a nonlinear model using DNN is that we avoid the discretization process as found in the conventional numerical methods such as Newton and Runge-Kutta moethods. It is expected that DNN would help solving the model of chaos convection efficiently. *  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 

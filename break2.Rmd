@@ -17,58 +17,58 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 1 - MERBOK ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 053-041 - Students Activities During Movement Control Order: UiTM Pahang Sharing Experience**  
+> Presented by: **_Syafiza Saila Samsudin_**  
 > Start Time: **_16:10 (MY time)_**  
 > 
-> Track   
+> Track - Computer Science   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*It has been more than a year since COVID-19 the first reported in Wuhan, China. As an impact of this pandemic, the whole world is still struggling to recover its economic growth. The education system has also been affected by the current situation, where online learning has taken over the physical classes. Due to this, most students in Malaysia today are following their courses from home instead of at their campus. Moreover, a Movement Control Order (MCO) implemented by Malaysia's government has strictly controlled the social and economic activities in the country. There are plenty of activities to fill Universiti Teknologi MARA Pahang students' Jengka Campus time during the lockdown. The researchers used a Simple Random Sampling technique in distributing the online survey questionnaires to a sample that consists of 213 students. Data of the students' activities were summarised using descriptive statistics. However, a Chi-Square test was used to determine the association between the student's activities and demographic characteristics.Based on the finding, most male and female students did not make a to-do list with a 73% and 68% percentage, respectively.  As a result, most male students enjoyed their day during MCO with a ratio of 57%, while most of the female students did not feel happy their weekend with a percentage of 52%. Many students spent more than four hours on revision and social media activities, 25% and 27%, respectively. Besides, most students only spent less than one hour on their family and reading activity, 31% and 53% respectively. Apart from that, 48% of students slept for more than four hours on the weekend during an MCO. Furthermore, there are associations between students' weekend activities and their demographic characteristics. The study concludes that cooking activities were influences by gender, shopping and part-time job activities controlled by the program. In contrast, the video game and outdoor game activities significantly affect students' interest in their current semester.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 080-063 - Analysis of Public Sentiment on Covid-19 Vaccination Policy based on Text Mining with the Naïve Bayes Classifier Approach**  
+> Presented by: **_Rita Susanti_**  
 > Start Time: **_16:25 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*One of the goals in the SDGs, which is to ensure a healthy life and promote the welfare of all people of all ages, has become difficult to maintain since the emergence of Covid-19 in Indonesia in March 2020. Thus, the Indonesian government has issued a policy regarding the procurement of vaccines and the implementation of vaccinations through Presidential Regulation Number 99 of 2020. Meanwhile, the public's perception of the Covid-19 vaccine that appears varies that will affect the Covid-19 vaccination process in Indonesia, so a sentiment analysis needs to be carried out to free Indonesia from the Covid-19 pandemic. By using the text mining method, the primary data collected is in the form of public opinions from Twitter. With the Naïve Bayes Classifier approach, it is concluded that the model is consistent and good enough to be used to classify public sentiment regarding the Covid-19 vaccination policy.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 080-064 - Clustering of Districts and Cities in Indonesia based on Poverty Indicators using the K-Means Method**  
+> Presented by: **_Khoirun Niswatin_**  
 > Start Time: **_16:40 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Poverty is a multidimensional problem caused by various aspects and has an impact on many aspects of life. As one of the objectives of the Sustainable Development Goals (SDG’s), poverty eradication aims to improve welfare in all forms everywhere. Therefore, regional clustering is carried out based on poverty indicators as one of the alternatives to solve poverty problems in Indonesia. In this research, the mapping will be carried out based on districts and cities, so that the core problems in each region can be identified. By using the K-Means clustering method, eight clusters of districts and cities with different poverty levels were obtained. Each cluster member from the very not poor to very poor level is 130, 76, 126, 98, 66, 5, 5, and 8 districts and cities. Thus, most districts and cities in Indonesia are categorized as prosperous, only some region need special attention and treatment from the government.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -76,58 +76,58 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 2 - JERAI ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 080-062 - Modeling of Influence Factor Percentage of Goverments' Rice Recipient Families based on **  
+> Presented by: **_Chaerobby Fakhri Fauzaan P_**  
 > Start Time: **_16:10 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Corona Virus Disease 2019 (COVID-19) pandemic has disrupted the targets of most countries including achieving the Sustainable Development Goals (SDGs), such as minimize poverty and hunger levels. For this reason, Indonesia’s Government has implemented the rice for prosperous family program. In this study, the influence factor of the percentage of poor families receiving rice for prosperous family program is modeled based on the Fourier series estimator. The selection of the best Fourier series estimator was based on the smallest Generalized Cross Validation (GCV) value for the oscillation parameter. The results of this study are the estimation of the Fourier Cosine series with oscillation parameter equals to 4 which has a GCV value of 1.2317 x 10-11, MSE of 0.0006807645, and R2 of 99.412%. These results can become recommendations for the government for food security stability and provision of equals social protection for all Indonesian to achieve the SDGs target. *  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 080-065 - Analysis of The Effect of Hoax News Development in Indonesia using Structural Equation Modeling - Partial Least Square **  
+> Presented by: **_Christopher Andreas_**  
 > Start Time: **_16:25 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Freedom of the press as one of the pillars of the Sustainable Development Goals (SDGs) has made information dissemination more widespread. However, this freedom is followed by the development of hoax news that continues to grow in Indonesia. For this reason, a study was conducted to analyze the factors that significantly influence the development of hoax news in Indonesia. In this case, the exogenous variables used are internal factors, external factors, media credibility, and government regulations. The endogenous variables used are the development of hoax news in mass media and social media. By applying the Structural Equation Modeling-Partial Least Square (SEM-PLS) method, it is found that internal factors and government regulations have a significant influence on the development of hoax news on social media. Through this research, policy recommendations related to internal factors and government regulations can be formulated so that the development of hoax news can be minimized.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 025-014 - Statistical Learning of Air Passenger Traffic at the Murtala Muhammed International Airport, Nigeria**  
+> Presented by: **_Gabriel Olugbenga Ojo, Christopher Godwin Udomboso_**  
 > Start Time: **_16:40 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Based on previous studies, airline sectors planning, development, and management need reliable forecasts of air passenger traffic flow. In this research, the performance of Artificial Neural Network (ANN) and Support Vector Machine (SVM) models were investigated on predicting air passenger traffic in the Murtala Interna-tional Airport Nigeria. Past eleven years’ monthly data (2007-2018) obtained from Statistics Department of the Nigerian Airspace Management Agency (NAMA), MMIA, Lagos were used. ANN models with back-propagation steepest descent estimation techniques was compared with the SVM models with different kernels. The comparative evaluation of these proposed models were the Root Mean Square Error (RMSE) and the statistical loss function. The efficiency of the ANN model was found to be much better than that of the SVM model in predicting the domestic air passenger traffic flow, while the SVM model predicted the foreign air passenger traffic flow more efficiently than the ANN model.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 

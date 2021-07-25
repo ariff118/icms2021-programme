@@ -21,6 +21,8 @@ output:
 
 Use the buttons below to access a talk at the designated time. Where more than one session is available, click 'see options' to view your choices. For further help and guidance please see the [help section](help.html).  
 
+**NOTE:** The [[JOIN]]() button can only be accessed by registered participants.  
+
 ## {.tabset}  
 
 ### Day 1 - August 4, 2021  
@@ -38,7 +40,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > ### Doa Recitation and National Anthem  
 >  
-> [[JOIN]]()  
+
 
 ---
 
@@ -49,7 +51,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > **PROF. DR. MOHAMAD ABDULLAH HEMDI**  
 > Rector, Universiti Teknologi Mara (UiTM) Kedah  
 >  
-> [[JOIN]]()  
+
 
 --- 
 
@@ -61,7 +63,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > Dean, Faculty of Computer & Mathematical Sciences,  
 > Universiti Teknologi MARA (UiTM) Shah Alam  
 >  
-> [[JOIN]]()  
+
 
 ---  
 
@@ -69,7 +71,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >   
 > ### Video Montage  
 >  
-> [[JOIN]]()  
+
 
 ---  
 
@@ -82,7 +84,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_RESEARCH AND INNOVATION: OPPORTUNITIES AND CHALLENGES FOR ACADEMIA_**  
 >  
-> [[JOIN]]()  
+
 
 ---  
 
@@ -95,7 +97,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_HIDDEN GEM IN TALENT MARKET PLACE_**  
 >  
-> [[JOIN]]()  
+
 
 ---  
 
@@ -145,7 +147,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_SMARTCITY DEVELOPMENT AND IMPLEMENTATION IN ROMANIA_**  
 >  
-> [[**JOIN**]]()  
+
 
 ---  
 
@@ -161,6 +163,15 @@ Use the buttons below to access a talk at the designated time. Where more than o
 ***  
 
 ### Day 2 - August 5, 2021  
+
+> 08:00 - 08:40 (MALAYSIA time)  
+>  
+> ### Registration  
+> Familiarise yourself with the conference platform and check that your equipment is working by accessing the 'registration' session.  
+>  
+> [[JOIN]]()  
+
+---  
 
 > 08:40 - 10:15 (MY time)  
 >  
@@ -182,7 +193,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_A HISTORY OF EXCHANGE OPTION PRICING MODELS_**  
 >  
-> [[**JOIN**]]()  
+
 
 ---  
 

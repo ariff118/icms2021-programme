@@ -17,115 +17,115 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 1 - MERBOK ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 066-054 - Curvature Comparison of Bezier Curve, Ball Curve And Trigonometric Curve In Preserving The Positivity Of Real Data**  
+> Presented by: **_Afida Ahmad_**  
 > Start Time: **_08:40 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The curvature of a curve is important in designing roads, construction of smooth surfaces, or grinding workpieces. Curvature is the tool to measure the smoothness of curves and surfaces. Therefore, in this paper, we have compared the curvature of three functions that are mostly used in curve design. These three functions are a rational cubic Bézier curve, a rational cubic Ball curve, and a cubic Trigonometric Bézier curve. Hence in this paper, the positivity of shape-preserving will be applied to real data. Conditions were imposed to preserve the positivity of the data and the results are presented.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 031-020 - Effect of Parameters on the Cost of Memory Type Chart**  
+> Presented by: **_You Huay Woon_**  
 > Start Time: **_08:55 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 055-042 - Numerical Solutions of Mixed Convection Nanofluid Flow over A  Moving Wedge with Gravity Modulation Effect**  
+> Presented by: **_Noraihan Afiqah Rawi_**  
 > Start Time: **_09:10 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The problem of unsteady mixed convection flow of nanofluid over a moving wedge is studied. The effect of gravity modulation on the flow, also known as g-jitter is included. The governing equation which consists of coupled non-linear partial differential equations are transformed and then solved numerically using Keller-box method. Numerical results for velocity and temperature profiles as well as the skin friction and heat transfer coefficients are displayed graphically and discussed in detail for solid nanoparticles volume fraction, moving wedge and mixed convection parameters. It can be concluded that, the heat transfer coefficients can be improved effectively by controlling the values of nanoparticles volume fraction and moving wedge parameter for assisting and opposing flows.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 013-005 - Assessing Financial Performance of Malaysian Takaful Operators Through Claim Ratio, Risk-Based Capital And Intellectual Capital**  
+> Presented by: **_Nur Amalina Kamaruddin_**  
 > Start Time: **_09:25 (MY time)_**  
 > 
-> Track   
+> Track - Others   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Insurance industry played important roles in world especially in well-developed countries. This industry considered as crucial because it worked to ensure protection for people and also business operations from any risk. Takaful which has been getting on-going popularity in insurance sector must maintain good market growth. Thus, this study aimed to assess the financial performance of Takaful operators through claim ratio, risk-based capital (RBC) and intellectual. This study was conducted using panel data set of 15 listed Takaful operators in Malaysia over the period 2015-2019 was taken from the operators’ audited financial statements. The results were obtained by computing claim ratio, minimum capital level required in RBC and the value-added intellec-tual capital (VAIC) score. The result of claim ratio showed that family takaful fund has higher claim ratio which indicated low profit as compared to general takaful fund. The RBC result also supported that the general takaful performed better than most of family takaful by fulfilled the supervisory target capital level of 130% as required by Bank Negara Malaysia (BNM). As for the VAIC score, most of the Takaful operators showed positive VAIC scores which mean they able to fully utilized company’s resources that lead to an outstanding management leader steward-ship. The implications of this study can help publics to obtain clear picture towards Malaysian takaful market and further assist the Takaful operators to incorporate the intellectual capital method for better improvement in assessing their future performance.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 014-006 - The Effect of Competition Between Two Species on A Lotka-Volterra Fishery Model with the Presence of Toxicity**  
+> Presented by: **_Zati Iwani Abdul Manaf_**  
 > Start Time: **_09:40 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Competition is a key ecological interaction between organisms. The classical Lotka-Volterra competition is a traditional resource competition model that has been widely recognized. In this paper, two species of the fish population that are subject to compete for the same resources are considered. The growth of the fish population follows the function of logistic growth and both species release intoxicating substances. The purpose of this paper is to investigate the effect of the competition coefficient between two species with the presence of toxic substances. To do this, the competition coefficient was selected as a bifurcation parameter. Few graphs of bifurcation, phase plane and time series are plotted by using mathematical software such as XPPAUT, Maple, and JAVA. This study shows that different rates of competition coefficient can give some effect on the dynamical behavior of both species. By using bifurcation analysis, there is an occurrence of a transcritical bifurcation point. Findings revealed that, as the bifurcation parameter exceeds the transcritical point, the systems of the two species switch from unstable to stable or vice versa. It is also observed that as the rate of competition coefficient increases, one species becomes extinct while the other species will survive.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 024-013 - Apply Machine Learning to Predict Cardiovascular Risk in Rural Clinics in Mexico.**  
+> Presented by: **_Misael Zambrano de la Torre_**  
 > Start Time: **_09:55 (MY time)_**  
 > 
-> Track   
+> Track - Computer Science   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Approximately 41 million people around the world die each year from cardiovascular diseases. In Mexico it is one of the main causes of death per year, because the population ignores this type of disease until their health condition is very complicated. This problem is even more critical in ru-ral areas of Mexico. Due to the limited number of specialized medical equipment available in these clinics. Therefore, the objective of this work is to apply machine learning to predict cardio-vascular risk in rural clinics from Mexico. In order to classify patients without a specialized clin-ical study, and reduce the number of deaths from this disease. The contribution of this work is to incorporate a new additional step in the existing methodology using machine learning. The importance of this work consists in being able to classify patients based on non-invasive attrib-utes. In addition to avoiding the use of specialized clinical equipment to determine the cardio-vascular health condition of patients. In this work, the Heart Disease Data Set repository of the University of California is used to implement the new stage in the existing methodology. The methodology to be implemented consists of 6 stages. The performance of the three algorithms is compared in terms of four parameters: accuracy, le sensitivity, specificity and area under the curve. The results show that the best attributes for cardiovascular risk classification are four: sex, chest pain, maximum heart rate and exercise-induced angina. This was obtained with an area under the curve of approximately 80%.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -133,115 +133,115 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 2 - JERAI ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 015-007 - Analysis of the Passengers Loyalty and Satisfaction  Based on AirAsia Using Classification**  
+> Presented by: **_Ee Jian Pei_**  
 > Start Time: **_08:40 (MY time)_**  
 > 
-> Track   
+> Track - Computer Science   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The main business of airline is to earn profits by providing air transportation services and flights to the travel passenger. Usually, when each passenger purchases the airline tickets, they will base on their different requirement to choose a satisfied flight from different airlines, and some-times the passenger may become a loyal passenger to the airline due to satisfaction. This is due to the reason that primary antecedents of the person who have a loyal sentiment to a thing are satisfaction and trust, so the airline can establish a long-term win-win relationship with the loyal passenger which is long-term purchase company’s flights as the passenger can have a satisfied flight, while the airline can earn the long-term profit. Therefore, this research proposes the dash-board system in order to find the passengers' purchase behavior of loyalty and satisfaction from the hidden data in order to make a better business strategy in stand out from other competitors. The classification method will be used included random forest, logistic regression and lightgbm. The result will identify the various possibilities of information, and contribute prediction of pas-senger loyalty and satisfaction. The dashboard system will visualize the report that able to help airlines to better understand the standard services of passengers and discover more potential loyal passengers. The quality of results from is closely related to data about the passengers’ loyalty and satisfaction, which will be of great help to support high-level management of airline in deci-sion making.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 029-018 - Analysis on Smoking Cessation Rate Among Patients In Hospital Sultan Ismail, Johor**  
+> Presented by: **_Siti Mariam Norrulashikin_**  
 > Start Time: **_08:55 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Smoking is one of the most common unhealthy habits, with widespread health impacts. Based on the National Cancer Institute Dictionary of Cancer Terms, a person can reduce the risk of serious health problems by quitting smoking. Smoking Cessation Clinic (SCC) is an outpatient clinic available for smokers that need assistance in stopping smoking. Therapeutic supports such as counselling, behaviour therapy and drugs may help someone stop smoking. The purpose of this study is therefore to descriptively examine demographic characteristics and to identify factors that influence smoking cessation among patients. Logistic regression is used in the current analysis, since this model is the most appropriate for analysing numerical and categorical data. This model illustrates how one or more independent variables are linked to a dependent variable. The result of this analysis would provide us with two potential outcomes: smoking success versus smoking failure. The data of patients is collected from Hospital Sultan Ismail Johor Bahru (HSIJB) research centre, and from the results, we found that method of quitting smoking and degree of addiction have a major impact on how effective patients are in quitting smoking. Predicting variables that will affect a smoker's chances of quitting is useful in designing and procuring life saving drugs. This would reduce the risk of deaths in patients that were caused by their smoking behaviour.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 035-027 - Missing Values Imputation For Wind Speed**  
+> Presented by: **_Nur Arina Bazilah Kamisan_**  
 > Start Time: **_09:10 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Addressing missing values is important in the process of getting a precise and accurate result. If missing data are not treated appropriately, then the results could lead to biased estimates. But different series may require different strategies to estimate these missing values. Seasonal data has a repetitive cycle that is predictable. By disaggregating the data into it seasonal factors, clear information behavior of the data could be observed and will make it easier to deal with the miss-ing value. In this paper, the performance of 3 different methods is being compared with each other. One of the imputation methods will used information from the seasonality for the missing values to enhance the imputation technique. the other two methods are mean interpolation and AR model as the missing values imputation. Wind speed data from Alor Setar, Malaysia are used for this purpose. From the error measurement, the enhanced technique gives the best perfor-mance compared to the other two techniques.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 027-015 - Prediction of Biochemical Oxygen Demand in Mexican surface waters using machine learning**  
+> Presented by: **_Maximiliano Guzmn Fernndez_**  
 > Start Time: **_09:25 (MY time)_**  
 > 
-> Track   
+> Track - R and its Users   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The monitoring of surface water quality is insufficient in Mexico due to the limited water moni-toring stations. The main monitoring parameter to evaluate surface water quality is the biochem-ical oxygen demand. This parameter estimates the biodegradable organic matter present in the water. When this parameter has concentrations above 30 mg/l, it indicates a high level of con-tamination by domestic and industrial waste. Therefore, the aim of this work is to predict the bi-ochemical oxygen demand in Mexican surface waters using machine learning. The database used was collected by the National Water Commission (CONAGUA) in the period 2012-2019. Pear-son’s correlation analysis and Forward Selection techniques were applied to identify the parame-ters with the most important contribution to prediction of biochemical oxygen demand. Two groups were formed with these parameters. These groups were used as input to the multiple lin-ear regression, ridge regression, random forest and elastic net algorithms. As a result of this work it was found that the random forest algorithm obtained the best performance. Group 1 of param-eters obtained a 0.46 root mean square error, 0.76 coefficient of determination and 0.22 mean absolute error. Group 2 of parameters obtained a 0.50 root mean square error, 0.75 coefficient of determination and 0.24 mean absolute error. This allows choosing an adequate group of parame-ters that can be determined with the chemical analysis instruments available in the study area or laboratory.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 058-044 - Likelihood and Bayesian Intervals in the Stress-Strength Model Using Records From the Pareto Distribution of the Second Kind**  
+> Presented by: **_Ayman Baklizi_**  
 > Start Time: **_09:40 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*We consider maximum likelihood and Bayesian estimation of the stress-strength reliability based on records from the Pareto distribution under a squared error loss function. The estimators are derived and their bias and mean squared error performance are studied. Confidence intervals, including percentile intervals and intervals based on the asymptotic normality of the maximum likelihood estimator are derived. Bayesian credible sets for the stress-strength reliability are also considered. Simulations are conducted to investigate and compare the performance of the classical intervals and the credible sets with noninformative prior distribution in terms of their length and coverage probability*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 060-046 - Multivariate Evolutionary and Tweedie GLM Methods for Estimating Estimation of Motor Vehicle Insurance Claims Reserves**  
+> Presented by: **_Adhitya Ronnie Ronnie Effendie_**  
 > Start Time: **_09:55 (MY time)_**  
 > 
-> Track   
+> Track - Others   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*An insurance policy is a contract agreement between the policy holder (the insured) and the insurance company (the insurer). In order for the contract agreement to run, policyholders need to pay premiums to the insurance company. In return, the insurance company must bear the risk if the policy holder makes a claim. It is necessary to estimate the exact reserves of claims so that the insurance company can prepare a number of funds for settlement of claims. Estimation of claims reserves can be done using GLM (Generalized Linear Model). GLM can be used to estimate univariate claim data consisting of only one LoB (Line of Business). In practice, almost every insurance company has various types of LoB which are dependent on one another. Therefore, GLM can be extended to multivariate GLM which can be used to estimate claim data with more than one LoB. The researcher also wants to compare the calculation of the estimated reserves of vehicle insurance claims with the Multivariate Evolutionary GLM Adaptive Method and the Simple GLM with the Tweedie Family Distribution Approach to find a more accurate method of finding claims reserves for each line of business vehicle insurance data.*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
