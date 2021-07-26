@@ -24,9 +24,9 @@ Select a workshop session below to reveal more details and to access the button 
 <summary>Overview & Tentative</summary> 
 <p>  
 
-<aside style="width:20%; height:30%; float:right" align="center">
-![](images/workshop1.jpeg)
-</aside>  
+<!-- <aside style="width:20%; height:30%; float:right" align="center"> -->
+<!-- ![](images/workshop1.jpeg) -->
+<!-- </aside>   -->
 
 Predictive analytics involves development and evaluation of predictive models for prediction of an event of interest. It encompasses using a variety of statistical and machine learning models chat analyze current or historical data to make predictions or classification. Predictive analytics is used in business, education, actuarial science, marketing, financial services, insurance, telecommunications, retail and healthcare. Predictive analytics {also called supervised learning) requires a target (or dependent variable) and some inputs (or independent variables). The predictive model provides a predictive score {probability) for each individual (customer, employee, student, or patient) such as in churn prediction, credit risk assessment, fraud detection, or disease prediction. The best model can be used to predict the target variable for a new data set.  
 
@@ -51,12 +51,21 @@ This workshop involves hands-on session on predictive modelling using some machi
 <summary>Overview & Tentative</summary>
 <p>  
 
-<aside style="width:20%; height:30%; float:right" align="center">
-![](images/workshop2.jpeg)
-</aside>  
+<!-- <aside style="width:20%; height:30%; float:right" align="center"> -->
+<!-- ![](images/workshop2.jpeg) -->
+<!-- </aside>   -->
 
 This workshop is designed for participants with no prior knowledge and experience in R programming language. A basic programming just to get you started will be introduced at the beginning of the session. In general, this workshop will be a hands on session where participants will be guided through a step-by-step process in creating a basic customized academic journal article template and authoring academic book to be published as hardcopy, ebook or online. An important note to the participants, since this is a virtual session, individual troubleshooting in the use of the software might not be able to be performed effectively during the ongoing session and can only be assisted offline after the session.  
 
+**Software Requirement**  
+
+Download and Install  
+
+1. R Software - available for download at [https://cran.r-project.org/](https://cran.r-project.org/)  
+2. R Studio Desktop (Free) - available for download at [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)  
+3. **optional** zotero referencing tools - available for download at [https://www.zotero.org/](https://www.zotero.org/)  
+
+Tentative Programme (subject to change based on audiences)  
 
 +---------------+----------------------------------------------------+
 | Time          | Content                                            |
