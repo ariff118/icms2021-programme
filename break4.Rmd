@@ -93,58 +93,58 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 106-090 - License Plate Number Recognition Using Support Vector Machine (SVM)**  
+> Presented by: **_Hani Fathiah_**  
 > Start Time: **_12:00 (MY time)_**  
 > 
-> Track   
+> Track - CMS   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 026-019 - B-Bistochastic-Volterra Quadratic Stochastic Operators on $S^{1}S^{1}$**  
+> Presented by: **_Nur Natasha Binti Lim Boon Chye @ Mohd Hairie Lim_**  
 > Start Time: **_12:15 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 108-094 - Analysis Review on Challenges and Solutions to Computer Programming Teaching and Learning**  
+> Presented by: **_Noor Hasnita Abdul Talib_**  
 > Start Time: **_12:30 (MY time)_**  
 > 
-> Track   
+> Track - Computer Science & Information Technology   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -152,20 +152,20 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 2 - JERAI ROOM**  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 101-082 - Fuzzy AHP and Its Application To Sustainable Energy Planning Decision Problem**  
+> Presented by: **_Norliana Mohd Najib_**  
 > Start Time: **_11:00 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
@@ -190,16 +190,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **iCMS2021: 050-040 - Assessing the Relations of Students' Learning Styles and Critical Thinking in Mathematics in a 'Cluster School'**  
-> Presented by: **_Asyura Abd Nassir_**  
+> #### **iCMS2021: 093-081 - Distance-Based Feature Selection for Low Level Data Fusion of Sensor Data**  
+> Presented by: **_Maz Jamilah Masnan_**  
 > Start Time: **_11:30 (MY time)_**  
 > 
-> Track - Computer Science   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*All individuals have a different dimension of learning, such as visual learners, auditory learners, and kinesthetic learners. Identifying students' learning styles in class can help teachers plan a strategy for adapting the best teaching method to help them understand. This study aims to identify the potential relationship between the students' preferred learning style and their critical thinking in Mathematics. This study sample involves students at a 'cluster' secondary school in Pahang, Malaysia. A set of questionnaires consists of fourteen questions and critical thinking problems distributed to sixty-two 17-year-old students. The quantitative data collected were ana-lyzed using descriptive statistics, Spearman's Rank Correlation Coefficient, and ANOVA and t-test. The results indicate that the most popular learning style is visual, followed by auditory and kinaesthetic. The most preferred learning style for students in this study is visual, giving 71 per-cent of them are visual learners. For the auditory and kinaesthetic learners, it provides only 22.6 and 6.5 percent, respectively. It also shows that the preferred learning style and critical thinking are not significantly related. This study suggests that teachers should make some efforts to pro-vide various teaching methods consistent with the students' learning style. In contrast, students need to adjust their learning styles to match the teachers' teaching methods. Furthermore, it will help the students to build self-confidence and plan their study strategy.*  
+*Please Insert Text Here*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -247,20 +247,20 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 099-080 - Confidence interval estimation using bootstrapping method and maximum likelihood estimator**  
+> Presented by: **_Siti Fairus Mokhtar_**  
 > Start Time: **_12:15 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -277,9 +277,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -298,9 +298,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>
 
@@ -317,9 +317,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -336,9 +336,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -355,9 +355,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -374,9 +374,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -393,9 +393,9 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
 
@@ -412,8 +412,8 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
+<!-- [[Join]]()   -->
 </p>
 </details>  
