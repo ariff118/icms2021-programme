@@ -41,7 +41,6 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > ### Doa Recitation and National Anthem  
 >  
 
-
 ---
 
 > 08:45 - 09:00 (MY time)  
@@ -51,7 +50,6 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > **PROF. DR. MOHAMAD ABDULLAH HEMDI**  
 > Rector, Universiti Teknologi Mara (UiTM) Kedah  
 >  
-
 
 --- 
 
@@ -72,6 +70,21 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > ### Video Montage  
 >  
 
+<!-- <video width="320" height="240" controls> -->
+<!--   <source src="./videos/EnglishVersion1.mp4" type="video/mp4"> -->
+<!--   Your browser does not support the video tag. -->
+<!-- </video> -->
+
+<!-- <center> -->
+<!-- ```{r echo=FALSE} -->
+<!-- library(embedr) -->
+
+<!-- # embed .mp4 video -->
+<!-- video <- "./videos/EnglishVersion1.mp4" -->
+<!-- embed_video(video, type = "mp4", width="560", height="315", attribute = "control") -->
+
+<!-- ``` -->
+<!-- </center> -->
 
 ---  
 
