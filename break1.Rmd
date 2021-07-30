@@ -131,16 +131,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 063-051 - Some Robust Ridge Regression Approach for the Combined Multi-collinearity-Outlier Problem**  
+> Presented by: **_Sanizah Ahmad_**  
 > Start Time: **_12:30 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*The common method used for estimating parameters in linear regression model is ordinary least squares (OLS) since it gives the best parameter estimates when all assumptions are met. In reality, these assumptions are sometimes not adhered since the presence of combined multicollinearity and outliers often occur in regression data. When this is the case, analysing regression model may severe-ly produce misleading results. To overcome this issue, various robust parameter estimates were in-jected into ridge regression method to produce robust ridge regression models. Therefore, the aim of this study is to investigate on the performance of selected robust ridge estimators which include S, M, MM and Least Trimmed Squares (LTS) estimators using simulation study. For the simulation de-sign, Laplace and Cauchy distributions were used to introduce outliers in the simulated data of sample sizes n=25, 50 and 100 with various level of multicollinearity ($\rho$ = 0.50, 0.90, 0.95, 0.98, 0.99). Root Mean Square Error and Bias are used as the criterion measure to examine the performance for the estimators. The finding of this study indicates that Ridge LTS is the best robust ridge estimator in handling data containing both multicollinearity and outliers. Applications of the estimators to two benchmark real life datasets provide similar results.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -286,16 +286,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ### **ROOM 3 - MAHSURI ROOM**  
 
-> #### **iCMS2021: 032-021 - Evaluation of Predictors for the Development and Progression of Diabetic Retinopathy among Diabetes **  
-> Presented by: **_Syafawati Ab Saad_**  
+> #### **iCMS2021: 108-094 - Analysis Review on Challenges and Solutions to Computer Programming Teaching and Learning**  
+> Presented by: **_Noor Hasnita Abdul Talib_**  
 > Start Time: **_11:00 (MY time)_**  
 > 
-> Track - Statistics   
+> Track - Computer Science & Information Technology   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Diabetic retinopathy is one of the microvascular complications caused by prolonged uncontrolled diabetes. It is believed that diabetic retinopathy correlates with certain predictors and risk factors that might worsen the disease, eventually causing visual loss and blindness among diabetes patients. There are some predictors and risk factors that attribute to the development and progression of diabetic retinopathy, such as the duration of diabetes and HbA1c trends. This study aims to evaluate the predictors and risk factors associated with the development and/or progression of diabetic retinopathy. Retrospec-tive data were collected from a single healthcare facility in the northwest of Peninsular Malaysia. Patients included in this study were those with type 2 diabetes mellitus diag-nosed with diabetic retinopathy. The total number of patients involved in this study were 197, where 161 of them were newly diagnosed or with progressive diabetic reti-nopathy. The characteristics of diabetes patients with complication of diabetic retinopathy were described through descriptive statistics. Characteristics in-clude demographics data such as age, gender, race and clinical data such as HbA1c read-ings HbA1c, estimated glomerular filtration rate (eGFR), urea and haemoglobin concen-tration (Hb). The results show that few predictors and risk factors are significant to the development and progression of diabetic retinopathy among diabetes patients. By using multinomial logistic regression, this study offers better understanding of the significant predictors and risk factors related to diabetic retinopathy.*  
+**  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -400,16 +400,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 086-068 - Investment in Malaysia: Forecasting stock market using time series analysis**  
+> Presented by: **_Fauhatuz Zahroh Shaik Abdullah_**  
 > Start Time: **_12:30 (MY time)_**  
 > 
-> Track   
+> Track - Statistics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*This study aims to investigate the performance of the Kuala Lumpur Composite Index (KLCI) from 1997 to 2018. The ARIMA model approach was applied to study the KLCI time series. Model building and diagnostic checking techniques were conducted to determine a statistically adequate model. Subsequently, the next three years of the KLCI series is forecasted to estimate the return rate of investing in the Malaysian indexed stock market.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
