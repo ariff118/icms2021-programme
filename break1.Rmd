@@ -112,16 +112,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **iCMS2021: 089-071 - Modeling The Effectiveness Of Teaching Basic Numbers Through Mini Tennis Training  Using**  
-> Presented by: **_Rahela Abdul Rahim_**  
+> #### **iCMS2021: 072-059 - A 1D Eye Tissue Model to Mimic Retinal Blood Perfusion during Retinal Imaging Photoplethysmography (iPPG) Assessment: A Dif-fusion Approximation " Finite Element Method (FEM) Approach**  
+> Presented by: **_Harnani Hassan_**  
 > Start Time: **_12:15 (MY time)_**  
 > 
-> Track - Mathematics   
+> Track - Computer Science   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Mathematics is often considered a difficult and boring subject for most children because its use in daily activities is not given proper emphasis. The activity of counting numbers in ascending order is the basis of learning mathematics. While the activity of playing through physical movement is the most popular activity by children. Therefore, an approach should be taken to build a relationship between mathematics learning and physical activity games so that children can gain skills in both areas in parallel and can save time, energy and human resource costs. This study pioneered the technique of learning to make basic number calculations for children through a tennis mini game called AB-kiRA. To measure the effectiveness of this technique a Markov chain model was developed to analyze the performance of trainees in making basic number calculations during mini tennis training. Data from 150 training trials were used to generate the transition matrix. Next a calculation to obtain the probability of the equilibrium state is performed. The results show that the trainees will be able to master the basic number counting skills after 10 attempts are made through the shot of the ball made by the trainee. This information can be the basis of a guide for training other mini tennis trainee children in mastering basic number counting skills.*  
+*Insert abstract here.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
