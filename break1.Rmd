@@ -121,7 +121,7 @@ Select a room and session below to reveal more details and to access the button 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Insert abstract here.*  
+*This paper presents a one-dimension (1D) eye tissue model to mimic retinal blood perfusion during retinal imaging photoplethysmography (iPPG) assessment in previous work. An uneven light source illumination and noise during the assessment can affect the extraction of backscattering light, hence alter the actual blood perfusion measurement. In this work, a simplified eye model that consists of four layers: retina, retina epithelium (RPE), choroid, and sclera was employed to perform numerical analysis using diffusion approxi-mation – Finite Element Method (FEM) approach. The analysis has utilized optical properties of healthy eye tissue and the simulation was performed in the MATLAB 2019a environment. The outcomes of the analysis show that the proposed approach can be utilized to mimic retinal blood perfusion in different tissue depths and predict the amplitude of the generated pulsatile waveform before starting an assessment. The simulation consumed less computation time to analyze and the generated pulsatile was uncontaminated with noise.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -295,7 +295,7 @@ Select a room and session below to reveal more details and to access the button 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-**  
+*Programming is creating or writing set of instructions that tells a computer to perform a task. Basically, programming is an important part in Computer Science as it is used to give instruc-tions to the computer to understand and thus solve the problem. Hence, programming is a must-have skill for Computer Science students, especially dealing with technology that is evolving every day. However, there are challenges and difficulties facing by novice programmers in learn-ing programming. This is due to the fact that most students find programming subjects difficult to learn and understand which results in not getting good grades in exams. Although various ef-forts have been taken to improve the learning and teaching process of programming subject, Computer Science teachers still face challenges to help students in mastering their programming skills. Therefore, this paper contributes to assisting novice programmers and teachers in enhanc-ing their learning and teaching quality. Thus, this study aims to identify the factors contributing to the challenges and difficulties in teaching and learning programming and to review proposed solutions to overcome those challenges.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -306,7 +306,7 @@ Select a room and session below to reveal more details and to access the button 
 ---  
 
 > #### **iCMS2021: 096-079 - Information Security Culture: A Qualitative Approach on Management Support**  
-> Presented by: **_Qamarul Nazrin Harun, Mohamad Mustaqim Junoh_**  
+> Presented by: **_Qamarul Nazrin Harun_**  
 > Start Time: **_11:15 (MY time)_**  
 > 
 > Track - Computer Science   

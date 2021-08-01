@@ -45,7 +45,7 @@ Select a room and session below to reveal more details and to access the button 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Place or insert abstract here*  
+*Memory control chart is the scheme that utilize the previous information in construct-ing the chart. Exponentially weighted moving average (EWMA) control chart is an example of the memory type chart. This study focuses on the effect of input parameters on the cost of implementing the EWMA control chart. Here, the economic design is used to compute the cost parameter. The fourteen input parameters have been identified and classified into parameters related to cost, time and process. The analysis will be done based on the one parameter at a time basis. From the results, thirteen input parameters have an effect on the cost parameter. However, the effect of each input pa-rameter on the cost of implementing the EWMA control chart is different. This analysis is important to observe and determine the input parameter that has significant impact on the cost of the EWMA chart. Hence, practitioners will have an overview of the influence of the input parameters on the cost of implementing the EWMA control chart.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -74,8 +74,8 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **iCMS2021: 013-005 - Assessing Financial Performance of Malaysian Takaful Operators Through Claim Ratio, Risk-Based Capital And Intellectual Capital**  
-> Presented by: **_Nur Amalina Kamaruddin_**  
+> #### **iCMS2021: 013-005 - Analysis Of Claim Ratio, Risk-Based Capital and Value-Added Intellectual Capital: A Comparison Between Family and General Takaful Operators In Malaysia**  
+> Presented by: **_Nur Amalina SyafiqaKamaruddin_**  
 > Start Time: **_09:25 (MY time)_**  
 > 
 > Track - Others   
