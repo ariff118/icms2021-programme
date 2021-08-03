@@ -171,16 +171,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **iCMS2021: 056-048 - The Future of Malaysia Agriculture Sector by 2030**  
-> Presented by: **_Thanusha Palmira Thangarajah_**  
+> #### **iCMS2021: 066-0548 - Curvature Comparison of Bezier Curve, Ball Curve And Trigonometric Curve In Preserving The  Positivity Of Real Data**  
+> Presented by: **_Afida Ahmad_**  
 > Start Time: **_11:15 (MY time)_**  
 > 
-> Track - Statistics   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Agriculture is characterized as the art and science of developing the soil, growing crops, and rais-ing livestock. Previously before the independence and until the early ’80s, Malaysia was an agri-cultural country. However, the scenario has changed due to the rapid growth of manufacturing and services sectors which have boosted the economy. Hence, agriculture sector has been shrink-ing and this is very alarming because the impact is very severe on our basic food production such as rice, chicken, fish and etc. Relying too much on importing them would cause shortages in the future if the supplier (i.e. other countries) decided not to sell them or increase the prices. There-fore, the purpose of this study is to forecast the agriculture sector by 2030 as compared to manu-facturing and services sectors. Two forecasting techniques were used which were Holt’s Expo-nential Smoothing and Autoregressive Integrated Moving Average (ARIMA). The performances of the models were evaluated recursively based on RMSE, GRMSE and MAPE. The finding showed that the agriculture sector will decrease from 8.10% in 2021 to 4.96% by 2030. Thus, drastic strategic agricultural policy planning needs to be established by incorporating modern technology in smart farming. The paradigm shift in agriculture sector is very important in self-sustaining the basic food production to ensure our future food security.*  
+*The curvature of a curve is important in designing roads, construction of smooth surfaces, or grinding workpieces. Curvature is the tool to measure the smoothness of curves and surfaces. Therefore, in this paper, we have compared the curvature of three functions that are mostly used in curve design. These three functions are a rational cubic Bézier curve, a rational cubic Ball curve, and a cubic Trigonometric Bézier curve. Hence in this paper, the positivity of shape-preserving will be applied to real data. Conditions were imposed to preserve the positivity of the data and the results are presented.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -247,16 +247,16 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **iCMS2021: 099-080 - Confidence interval estimation using bootstrapping method and maximum likelihood estimator**  
-> Presented by: **_Siti Fairus Mokhtar_**  
+> #### **iCMS2021: 103-084 - The Exact Wirelength of Fibonacci Cube Graphs on Complete Bipartite Graph**  
+> Presented by: **_Siti Nur Aishah_**  
 > Start Time: **_12:15 (MY time)_**  
 > 
-> Track - Statistics   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  
 <p>
-*Confidence interval estimation is an important technique to estimate of a parameter of a population calculated from a sample drawn from the population. The objective of this paper is to calculate and compare confidence interval using percentile bootstrap and bias-corrected and accelerated, and maximum likelihood estimate. The advantages of bootstrapping are valid for small samples, and it is a convenient tool.*  
+*Insert abstract here.*  
 
 <!-- [**Speaker Name, Country**]()   -->
 
@@ -266,11 +266,11 @@ Select a room and session below to reveal more details and to access the button 
 
 ---  
 
-> #### **Paper ID - Title**  
-> Presented by: **_Speaker Name_**  
+> #### **iCMS2021: 105-089 - Radiation Effect on MHD Ferrofluid Flow with Ramped Wall Temperature and Arbitrary Wall Shear Stress**  
+> Presented by: **_Nor Athirah Mohd Zin_**  
 > Start Time: **_12:30 (MY time)_**  
 > 
-> Track   
+> Track - Mathematics   
 
 <details>
 <summary>**_Abstract_**</summary>  

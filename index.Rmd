@@ -21,7 +21,7 @@ output:
 
 Use the buttons below to access a talk at the designated time. Where more than one session is available, click 'see options' to view your choices. For further help and guidance please see the [help section](help.html).  
 
-**NOTE:** The [[JOIN]]() button can only be accessed by registered participants.  
+<!-- **NOTE:** The [[JOIN]]() button can only be accessed by registered participants.   -->
 
 ## {.tabset}  
 
@@ -32,7 +32,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > ### Registration  
 > Familiarise yourself with the conference platform and check that your equipment is working by accessing the 'registration' session.  
 >  
-> [[JOIN]]()  
+<!-- > [[JOIN]]()   -->
 
 ---  
 
@@ -141,12 +141,12 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_ANALYSIS AND IMPUTATION OF MISSING VALUES_**  
 > 
-> <h3>
-> <ul class="pager"> <!--this is the style of the button-->
-> <li><a href="keynote2.html">**VIEW SPEAKER BIO**</a></li> <!--This button takes me to the table of contents-->
-> <li><a href="https://meet.google.com/rmi-nqun-bfy">**JOIN**</a></li> <!--This button takes me to the previous page-->
-> </ul>
-> </h3>  
+<!-- > <h3> -->
+<!-- > <ul class="pager"> <!--this is the style of the button--> -->
+<!-- > <li><a href="keynote2.html">**VIEW SPEAKER BIO**</a></li> <!--This button takes me to the table of contents--> -->
+<!-- > <li><a href="https://meet.google.com/rmi-nqun-bfy">**JOIN**</a></li> <!--This button takes me to the previous page--> -->
+<!-- > </ul> -->
+<!-- > </h3>   -->
 
 ---  
 
@@ -183,7 +183,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 > ### Registration  
 > Familiarise yourself with the conference platform and check that your equipment is working by accessing the 'registration' session.  
 >  
-> [[JOIN]]()  
+<!-- > [[JOIN]]()   -->
 
 ---  
 
@@ -252,7 +252,7 @@ Use the buttons below to access a talk at the designated time. Where more than o
 >  
 > **_Announcement of BEST PAPER AWARD_**  
 >
-> [[JOIN]]()  
+<!-- > [[JOIN]]()   -->
 
 ---  
 
