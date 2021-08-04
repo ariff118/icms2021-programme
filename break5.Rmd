@@ -131,6 +131,20 @@ Select a room and session below to reveal more details and to access the button 
 <!-- </p> -->
 </details>  
 
+---
+
+> ### **iCMS2021: 003-001 - A review on individual loss reserving for non-life insurance** {-}  
+> Presented by: **_Ang Siew Ling_**  
+> Start Time: **_15:15  (MY time)_**  
+> 
+> Track - Statistics   
+
+<details>
+<summary>**_Abstract_**</summary>  
+<p>
+*In recent decades, there has been great success with deterministic and stochastic unpaid claim reserving models based on triangles, such as those related to the chain-ladder model. However, with the increased need for more accurate reserving models, taking advantage of the information embedded in individual claims data with appropriate claims development models are a promising alternative compared with the traditional aggregate loss development triangles. This research reviews on the development of using the individual claims data for reserving estimation.*  
+</p>
+</details>  
 
 ***  
 
@@ -147,11 +161,11 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
-</p>
-</details>
+<!-- [[Join]]()   -->
+<!-- </p> -->
+<!-- </details> -->
 
 ---  
 
@@ -166,11 +180,11 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
-</p>
-</details>  
+<!-- [[Join]]()   -->
+<!-- </p> -->
+<!-- </details>   -->
 
 ---  
 
@@ -185,8 +199,8 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *Place or insert abstract here*  
 
-[**Speaker Name, Country**]()  
+<!-- [**Speaker Name, Country**]()   -->
 
-[[Join]]()  
-</p>
-</details>  
+<!-- [[Join]]()   -->
+<!-- </p> -->
+<!-- </details>   -->
