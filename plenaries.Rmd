@@ -100,6 +100,12 @@ This talk gives a broad overview of methods for missing values and imputation of
 > Invited Speaker 2 - Smartcity Development and Implementation in Romania  
 > Presented by: Assoc. Prof. Antoniade-Ciprian ALEXANDRU-CARAGEA PhD  
 
+<center>
+<object data="./assets/pdf/speakers/cip.pdf" type="application/pdf" width="100%" height="660px">
+  <!-- <p>Alternative text - include a link <a href="./assets/pdf/CheangiCMS2021FinalVersion.pdf">to the PDF!</a></p> -->
+</object>
+</center>  
+
 <details>
 <summary>read more ...</summary>  
 <p>
