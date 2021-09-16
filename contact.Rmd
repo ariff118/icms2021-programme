@@ -28,3 +28,26 @@ Or connect with me on GitHub, Facebook, or Linkedin (links in top right).
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=19iGQE50IiFAYtJ_qk7f7xpvZTG5__zO6" width="640" height="480"></iframe>
 
 ***  
+
+### Presenters Slides  
+
+```{r echo=FALSE}
+library(stringr)
+library(bsselectR)
+
+icms_paper_id <- paste0(list.files("./images/slides", full.names = TRUE))
+names(icms_paper_id) <- str_replace_all(icms_paper_id, 
+                                      c("\\.pdf" = "", 
+                                        "./images/slides/" = ""))
+
+bsselect(icms_paper_id, type = "application/pdf", selected = "073-060", 
+         live_search = TRUE, show_tick = TRUE)
+
+#paper_selected
+```
+
+<center>
+<object data="./images/slides/paper_selected.pdf" type="application/pdf" width="100%" height="660px">
+  <!-- <p>Alternative text - include a link <a href="./assets/pdf/CheangiCMS2021FinalVersion.pdf">to the PDF!</a></p> -->
+</object>
+</center>  
