@@ -28,6 +28,10 @@ Select a room and session below to reveal more details and to access the button 
 <p>
 *At the start of 2020, the whole world faced the covid-19 pandemic spreading across countries, including Malaysia. The pandemic caused the Malaysia government to take immediate  action to declare a Movement Control order (MCO). This MCO has a serious impact on almost all Malay-sia sectors, including the economic, social, and education sectors. For primary school students to strengthen their mathematics skills, we believed that short programs significantly affect their   performance during MCO implementation. This study was conducted to measure the primary school students' performance during MCO for the short term Mathematics program. There were two sets of mathematics score data before and after the program considered in this study. The Mann-Whitney test was conducted to test whether there is any significant difference in perfor-mance between genders for both data sets. Meanwhile, the Wilcoxon Signed Rank test was conducted to evaluate student performance's significant difference before and after the program. It was found that there was a significant difference in students' performance before and after the program, which the performance after the program becomes increased. One of the possible factors that were given a   significant effect on the student's performance was program activities' effectiveness using face-to-face platforms. However, it only carried out in a short term pe-riod. As we believed, face-to-face teaching and learning activities are still necessary for all education levels, especially at the primary level, even if it only involves a short period. Nonethe-less, the hybrid platform of    teaching and learning must be prepared due to the pandemic era's uncertainty.*  
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tFUcySmN01g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 <!-- [**Speaker Name, Country**]()   -->
 
 <!-- [[Join]]()   -->
